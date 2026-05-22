@@ -1,0 +1,6 @@
+db_index
+.vscode
+library_list.json
+.python-version
+.venv
+rag_metrics.log
